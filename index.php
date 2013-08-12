@@ -1,13 +1,11 @@
+<!DOCTYPE html>
 <html>
-<head>
-<title>Convenience Delivered</title>
-</head>
-
-<body>
-<h1>test!!</h1>
-
-
-</body>
-
-
+  <head>
+    <title>Bootstrap 101 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <script src="http://code.jquery.com/jquery.js"></script>
+  </body>
 </html>
